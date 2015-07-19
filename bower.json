@@ -1,6 +1,6 @@
 {
   "name": "purescript-websocket",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     "Brenton Alker <brenton@tekerson.com>"
   ],
@@ -16,8 +16,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "purescript-maybe": "~0.2.1",
-    "purescript-transformers": "~0.4.0",
-    "purescript-control": "~0.2.1"
+    "purescript-transformers": "~0.6.1"
+  , "purescript-functions": "~0.1.0"
   }
 }
